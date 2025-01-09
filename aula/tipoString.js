@@ -8,3 +8,8 @@ console.log(cumprimento);
 console.log(citacao);
 
 console.log(`O estudante chama ${estudante}`);
+
+// Template String[
+
+const senha = "SenhaSegura123" + estudante.toUpperCase();
+console.log(senha);
