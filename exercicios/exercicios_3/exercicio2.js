@@ -7,5 +7,5 @@ if(numero === true){
     console.log("Seu número é par");
 } else{
     console.log("Seu número é impar");
-    
+
 }
