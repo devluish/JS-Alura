@@ -4,6 +4,28 @@
 //Usar o String.splitch('')
 //Usar o Reverse para ler o array
 
-const palindromo = () => {
-    return "arara"
-} 
+const palavra = "";
+
+const palindromo = (texto) => {
+    const palavraPalindromo = (texto.split('').reverse('').join(''));    
+
+    if(palavraPalindromo === palavra){
+        console.log("A PALAVRA É PALINDROMO");
+    } else{
+        console.log("A PALAVRA NÃO É PALINDROMO");
+    }
+};
+
+palindromo(palavra);
+
+
+
+
+
+// Retornou a palavra em Array separada
+
+
+
+
+
+

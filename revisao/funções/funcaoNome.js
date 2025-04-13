@@ -7,5 +7,6 @@ console.log(toUpperCase(nome()));
 /**Feito pelo IA dúvida -> Forma lógica */
 const imprimirNomeMaiusculo = (nome) => {
     console.log(nome.toUpperCase("luis"));
+    
   };
   imprimirNomeMaiusculo("luis");
