@@ -8,5 +8,4 @@ function calcular(a, b) {
 }
 
 
-console.log(calcular);
-
+console.log(calcular(a, b));
