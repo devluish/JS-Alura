@@ -19,7 +19,6 @@
 // }
 
 
-const numero = 10;
 
 
 
