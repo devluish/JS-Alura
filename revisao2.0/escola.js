@@ -29,7 +29,6 @@ const verificaNota = (matematica, portugues, biologia, fisica, edFisica) => {
         
     }
 
-    
 }
 
 verificaNota(matematica, portugues, biologia, fisica, edFisica);

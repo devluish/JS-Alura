@@ -6,3 +6,5 @@
 // Se contiver "nome" → "Meu nome é ChatBot JS"
 
 // Se não reconhecer → "Desculpe, não entendi sua pergunta."
+
+
