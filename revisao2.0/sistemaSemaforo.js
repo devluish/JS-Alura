@@ -51,3 +51,4 @@ const semaforo = (cor) => {
 }
 
 semaforo("amarelo")
+

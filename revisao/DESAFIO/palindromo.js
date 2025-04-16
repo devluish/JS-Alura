@@ -4,7 +4,7 @@
 //Usar o String.splitch('')
 //Usar o Reverse para ler o array
 
-const palavra = "";
+const palavra = "oxo";
 
 const palindromo = (texto) => {
     const palavraPalindromo = (texto.split('').reverse('').join(''));    
