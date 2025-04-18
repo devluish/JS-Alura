@@ -4,3 +4,15 @@
 // Acrescenta 20% de bônus.
 // Se não, o salário permanece igual.
 // Retorne o valor final.
+
+
+const salario = 2500;
+
+const pagamento = (salario) =>{
+    const valorMeta = salario + (20 / 100 * salario);
+    const 
+
+    if (    ) {
+        
+    }
+}
