@@ -19,6 +19,7 @@ const validadorSenha = (senha) => {
     } else{
         console.log("Senha segura!");
         
+        
     }
 };
 
